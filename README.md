@@ -1,5 +1,5 @@
 <div align="center">
-<h2> `Welcome fellow <developers/>!` </h2>
+<h2> Welcome fellow developers! </h2>
 </div>
 
 <div align="center" width="50">
