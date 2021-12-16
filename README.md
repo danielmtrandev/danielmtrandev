@@ -2,6 +2,8 @@
 <h2> Hi, I'm Daniel. Welcome To My Profile!</h2>
 </div>
 
+<h3 align="center">My goal is to contribute as much as I can to humanitarian/social justice causes through the power of technology.</h3> 
+
 <div align="center" width="50">
 
 <img src="cover1.png" alt="Welcome!" width="300"/>
