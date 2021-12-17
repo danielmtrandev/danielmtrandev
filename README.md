@@ -7,7 +7,7 @@
 
 <div align="center" width="50">
 
-<img src="log1o.gif" alt="Welcome!" width="300"/>
+<img src="logo.gif" alt="Welcome!" width="300"/>
 
 </div>
 
