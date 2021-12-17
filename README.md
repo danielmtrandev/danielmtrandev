@@ -1,6 +1,6 @@
 <h3 align="center">Helping mankind, one digital step at a time.</h3> 
 <div align="center">
-<h2> Hi, I'm Daniel. Welcome To My Profile!</h2>
+<h2> My name is Daniel and welcome to my profile.</h2>
 </div>
   
 
