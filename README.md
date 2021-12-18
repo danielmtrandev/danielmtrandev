@@ -38,9 +38,24 @@
 
 <i>My Social Media:</i><br>
 
-<a href="https://www.linkedin.com/in/dt1dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/dt1dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://twitter.com/dt1dev" target="_blank"><img src="https://img.shields.io/twitter/follow/dt1dev?style=for-the-badge" alt="Twitter"></a>
+<a href="https://twitter.com/dt1dev" target="_blank"><img src="https://img.shields.io/twitter/follow/dt1dev?style=for-the-badge" alt="Twitter"></a> -->
+
+<p align="center">
+  <a href="mailto:danielmtran.dev@gmail.com">
+     <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  <a/>&nbsp;
+  <a href="https://www.linkedin.com/in/dt1dev/">
+     <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  <a/>&nbsp;
+  <a href="https://twitter.com/dt1dev">
+     <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+  <a/>&nbsp;
+  <a href="https://danielmtran.netlify.app/">
+     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
+  <a/>
+<p/>
 
 
 
