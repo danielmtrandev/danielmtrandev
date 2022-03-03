@@ -7,7 +7,7 @@
 
 <div align="center" width="50">
 
-<img src="logo1.gif" alt="Welcome!" width="300"/>
+<img src="Background.png" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -18,10 +18,10 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dt1dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c0ffee&icon_color=c0ffee&text_color=D3D3D3&bg_color=0,000000,3C5067" alt="Daniel's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmtrandev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c0ffee&icon_color=c0ffee&text_color=D3D3D3&bg_color=0,000000,3C5067" alt="Daniel's Github Stats">
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dt1dev&layout=compact&title_color=c0ffee&text_color=D3D3D3&bg_color=0,000000,3C5067" alt="Daniel's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmtrandev&layout=compact&title_color=c0ffee&text_color=D3D3D3&bg_color=0,000000,3C5067" alt="Daniel's Github Stats">
   
   
 <h3 align="center">Languages and Tools:</h3>
@@ -42,13 +42,13 @@
   <a href="mailto:danielmtran.dev@gmail.com">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   <a/>&nbsp;
-  <a href="https://www.linkedin.com/in/dt1dev/">
+  <a href="https://www.linkedin.com/in/danielmtrandev/">
      <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   <a/>&nbsp;
-  <a href="https://twitter.com/dt1dev">
+  <a href="https://twitter.com/danielmtrandev">
      <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
   <a/>&nbsp;
-  <a href="https://danielmtran.netlify.app/">
+  <a href="https://danielmtrandev.netlify.app/">
      <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
   <a/>
 <p/>
