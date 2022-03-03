@@ -7,7 +7,7 @@
 
 <div align="center" width="50">
 
-<img src="Background.png" alt="Welcome!" width="300"/>
+<img src="" alt="Welcome!" width="300"/>
 
 </div>
 
